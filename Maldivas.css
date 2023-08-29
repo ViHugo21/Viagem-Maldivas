@@ -1,0 +1,210 @@
+/*Atividade Prática 10 BootStrap (Stylesheet)*/
+body {
+    background-color: black; 
+    color: rgb(68, 220, 220);
+    font-weight: 550;
+    font-family: 'Times New Roman', Times, serif; 
+    line-height: 2.2em;/*em unidade de medida relativa ao tamanho da fonte*/
+    font-size: 20px;
+    margin: 0;
+}
+
+header {
+    background-color: aqua;
+}
+
+section, footer{
+    margin: 10px;
+}
+
+nav {
+    background-color: rgb(50, 144, 144);
+}
+
+h1 {
+    color: rgb(0, 0, 0); 
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(29, 211, 211, 0.749); 
+    font-size: 35px;
+}
+
+h3 {
+    color: rgb(255, 255, 255); 
+    font-size: 25px;
+}
+
+p  {
+    color: aqua; 
+    font-size: 20px;
+}
+section ul {
+    color: rgb(85, 136, 231);
+    font-size: 20px;
+    letter-spacing: 1px;
+
+}
+
+table {
+    color: black;
+    border-color: aliceblue;
+    width:100%
+    
+}
+
+td {
+    padding: 15px;
+    background-color: rgb(212, 195, 181);
+    font-size: 25px;
+}
+
+th {
+    color: rgb(128, 126, 126);
+    text-decoration: underline;
+    font-size: 25px;
+    text-transform: uppercase;
+    background-color: rgb(212, 195, 181);
+}
+
+#botao-bonito{
+    color: black; /*cor de fonte*/
+    padding-top: 15px; /*espaço superior entre o texto e o elemento*/
+    padding-bottom: 15px; /*espaço inferior entre o texto e o elemento*/
+    padding-right: 35px; /*espaço a direita entre o texto e o elemento*/
+    padding-left: 35px; /*espaço a esquerda entre o texto e o elemento*/
+    background-color: rgba(3, 164, 245, 0.775); /*cor para o fundo do elemento, no caso o botão*/
+    text-decoration-line:none;
+    width: 300px;
+    height: 70px;
+}
+#botao-enviar{
+    color: white; /*cor de fonte*/
+    padding-top: 15px; /*espaço superior entre o texto e o elemento*/
+    padding-bottom: 15px; /*espaço inferior entre o texto e o elemento*/
+    padding-right: 35px; /*espaço a direita entre o texto e o elemento*/
+    padding-left: 35px; /*espaço a esquerda entre o texto e o elemento*/
+    background-color: rgb(62, 162, 162); /*cor para o fundo do elemento, no caso o botão*/
+    text-decoration-line:none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+label{
+    padding-right: 30px;
+}
+#input-type-checkbox{
+    padding-right: 20px;
+}
+legend{
+    text-decoration: underline;
+}
+section a{
+    margin-left: 40%;
+}
+form{
+    margin: 10px;
+}
+#car1{
+    width: 500px;
+    height: 500px;
+}
+#Image1{
+    width: 200px;
+    height: 100px;
+}
+#texImag1{
+    font-size: 60px;
+    color: rgb(212, 91, 17);
+    text-shadow: 2px 2px 2px black;
+}
+#car2{
+    width: 500px;
+    height: 500px;
+}
+#Image2{
+    width: 200px;
+    height: 100px;
+}
+#texImag2{
+    font-size: 60px;
+    color: rgb(38, 181, 188);
+    text-shadow: 2px 2px 2px black;
+}
+#car3{
+    width: 500px;
+    height: 500px;
+}
+#Image3{
+    width: 200px;
+    height: 100px;
+}
+#texImag3{
+    font-size: 60px;
+    color: rgb(30, 146, 200);
+    text-shadow: 2px 2px 2px black;
+}
+#Image4{
+    width: 200px;
+    height: 100px;
+}
+#Image5{
+    width: 350px;
+    height: 380px;
+}
+#Image6{
+    width: 350px;
+    height: 380px;
+}
+#Image7{
+    width: 350px;
+    height: 380px;
+}
+#Cont{
+    width: 400px;
+    height: 150px;
+    padding-top: 40px;
+}
+#sacMail{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#comentario{
+    color: white;
+}
+#coment{
+    width: 350px;
+    height: 165px;
+    margin-right: 5px;
+}
+
+#orçament{
+    margin-left: 0;
+}
+#imgCard{
+    
+    height: 270px;
+}
+#imgCad{
+    width: 200px;
+    height: 200px; 
+}
+#card{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#logo{
+    width: 60px;
+    height: 60px; 
+}
+#secCont{
+    margin: 5px;
+}
+
+#formCad{
+    margin: 5px;
+}
